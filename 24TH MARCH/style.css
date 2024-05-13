@@ -1,0 +1,42 @@
+body{
+    margin: auto;
+    display: flex;
+
+}
+.container{
+    height: 120px;
+    background-color: white;
+}
+h5{
+    margin-top: 0;
+    color: green;
+    font-weight: bold;
+}
+p{
+    font-size: 4.5px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: -22px;
+}
+.up{
+    height: 30px;
+    background-color: white;
+}
+.middle{
+    height: 50px;
+    background-color: white;
+    margin: 3px;
+}
+.form{
+
+    width: 90%;
+    border: 0.2px solid grey;
+}
+.daily{
+    font-size: 3px;
+}
+.btn{
+    width: 100%;
+    background-color:green;
+    color: white;
+    border: none;
+}

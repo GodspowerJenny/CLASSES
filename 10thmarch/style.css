@@ -1,0 +1,29 @@
+.container{
+    height: 100px;
+    background-color: white;
+
+}
+.header{
+    font-size: 9px;
+    font-weight: bold;
+}
+li{
+    font-size:4px;
+    margin-left: -30px;
+    text-decoration: underline;
+    color: purple;
+    
+}
+.section{
+    margin-bottom: 20px;
+    
+}
+h5{
+    font-size: 6px;
+    margin-top: -10px;
+    font-weight: bolder;
+}
+h6{
+    font-size: 5px;
+    margin-top: -5px;
+}

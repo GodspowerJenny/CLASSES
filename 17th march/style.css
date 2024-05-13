@@ -1,0 +1,58 @@
+body{
+    margin:0;
+    padding: 0;
+}
+
+.div-container{
+    height: 120px;
+
+}
+.section-first{
+    height: 40px;
+    background-color: burlywood;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+}
+.section-second{
+    background-color: turquoise;
+    height: 40px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+   
+    flex: 1;
+}
+.B{
+background-color: green;
+width: 50%;
+
+}
+.A{
+    width: 50%;
+}
+.section-third{
+    height: 40px;
+    background-color: yellowgreen;
+    display: flex;
+
+}
+h6{
+    font-size: 4px;
+    text-align: center;
+    
+}
+.C{
+    background-color: green;
+    width: 33.3%;
+}
+.D{
+    background-color: yellow;
+    width: 33.3%;
+}
+.E{
+    background-color:rgb(196, 171, 196);
+    width: 33.3%;
+}
